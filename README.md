@@ -58,4 +58,6 @@ A heatmap is generated to show the correlation between different attributes of p
 
 
 ### Age Distribution by Gender
-FacetGrid is used to create two histograms showing the age distribution for male and female passengers separately.
+FacetGrid is used to create two histograms showing the age distribution for male and female passengers separately. <br>
+![image](https://github.com/JonathanCPham/Titanic-Visualization/assets/49848126/3b10b78f-55c1-4f1e-8a1b-132902c73fa1)
+
