@@ -1,4 +1,4 @@
-#Titanic Dataset Visualization with Seaborn
+# Titanic Dataset Visualization with Seaborn
 This code uses the Seaborn library to perform data visualization on the Titanic dataset. The dataset contains information about passengers on the Titanic, such as their survival status, class, age, gender, and more.
 
 Before running the code, make sure you have the necessary Python libraries installed.
