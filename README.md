@@ -22,13 +22,15 @@ A heatmap is used to visualize missing data in the dataset. Columns with missing
 Two histograms are created to display the distribution of fare prices and passenger ages. The number of bins and labels are customized for each plot.
 ![image](https://github.com/JonathanCPham/Titanic-Visualization/assets/49848126/6061f7d9-e2e8-4cef-bba6-57baf11c85ac)
 
-### Countplots
-Countplots are used to count and display the number of passengers who survived and the number of passengers in each passenger class.
+### Bargraph
+A bargraph was used to count and display the number of passengers who survived and the number of passengers in each passenger class.
 ![image](https://github.com/JonathanCPham/Titanic-Visualization/assets/49848126/a209271d-e041-4c4b-af0c-3f29263a919f)
 
-### Bargraph
-Bargraph showing different passenger classes.
+### A Bargraph showing different passenger classes.
 ![image](https://github.com/JonathanCPham/Titanic-Visualization/assets/49848126/8b8a0148-2e0d-40c7-ac2d-9e93e00e90fa)
+
+### A bar graph showing passenger genders.
+![image](https://github.com/JonathanCPham/Titanic-Visualization/assets/49848126/149ffe75-45c3-4bda-b385-57edb2fa0178)
 
 ### Joint Plot
 A joint plot is created to show the distribution of fare prices in comparison to passenger age. The plot is customized to set limits on the x and y axes.
@@ -48,7 +50,7 @@ A swarmplot is used to show the age distribution in comparison to passenger clas
 
 ### Gender Distribution
 A countplot is used to count and display the number of male and female passengers.
-
+![image](https://github.com/JonathanCPham/Titanic-Visualization/assets/49848126/a21a4473-c8eb-4ea6-bae1-b652883f19d0)
 
 ### Titanic Heatmap
 A heatmap is generated to show the correlation between different attributes of passengers on the Titanic, such as survival, class, age, and more. Correlation values are not displayed on the heatmap.
